@@ -61,4 +61,6 @@ Solucja:
 ```
 node index.js
 ```
+## Współtwórcy
 
+Chciałbym podziękować serdecznie @tizgane za współpracę przy etapie projektowania i implementacji projektu oraz @Grushenko za pomoc przy React-Native
