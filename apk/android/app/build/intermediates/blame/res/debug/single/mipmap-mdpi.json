@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/krzysztof/Documents/FiFi/FiFiSpeaker/FiFiSpeaker/FiFiSpeaker/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/krzysztof/Documents/FiFi/FiFiSpeaker/FiFiSpeaker/FiFiSpeaker/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/krzysztof/Desktop/FiFiSpeaker/apk/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/krzysztof/Desktop/FiFiSpeaker/apk/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/krzysztof/Desktop/FiFiSpeaker/apk/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/krzysztof/Desktop/FiFiSpeaker/apk/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/krzysztof/Documents/FiFi/FiFiSpeaker/FiFiSpeaker/FiFiSpeaker/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/krzysztof/Documents/FiFi/FiFiSpeaker/FiFiSpeaker/FiFiSpeaker/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/res/xml/preferences.xml"
+    }
+]
