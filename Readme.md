@@ -63,4 +63,4 @@ node index.js
 ```
 ## Współtwórcy
 
-Chciałbym podziękować serdecznie @tizgane za współpracę przy etapie projektowania i implementacji projektu oraz @Grushenko za pomoc przy React-Native
+Chciałbym podziękować serdecznie [@tizgane](https://github.com/tizgane) za współpracę przy etapie projektowania i implementacji projektu oraz [@Grushenko](https://github.com/Grushenko) za pomoc przy React-Native
